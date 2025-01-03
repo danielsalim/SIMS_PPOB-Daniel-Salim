@@ -1,1 +1,4 @@
-# SIMS_PPOB-Daniel-Salim
+# How to Run
+
+npm install
+npm run dev
